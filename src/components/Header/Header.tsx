@@ -6,7 +6,7 @@ export class Header extends React.Component {
     render() {
         return (
             <header className="App-header">
-                <div className="header row">
+                <div className="header d-flex w-100">
                     <div className="col header-logo">
                         <img src={logo} alt="Main Logo"/>
                         <span className="">Sweet Home</span>
