@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "httpStatus": 200
+    },
+    "payload": {
+        "labels": {
+            "welcomeText": "Welcome Abhinav",
+            "logoText": "Sweet Home"
+        },
+        "menu": [{
+            "name": "Edit Profile",
+            "link": ""
+        },
+        {
+            "name": "Change Password",
+            "link": ""
+        }, 
+        {
+            "name": "Sign Out",
+            "link": ""
+        }]
+    }
+}
